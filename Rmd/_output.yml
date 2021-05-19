@@ -1,0 +1,16 @@
+bookdown::gitbook:
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><a href="https://bookdown.org/gorodnichy/xmas">Chansons de Noël bilangues</a></li>
+      after: |
+        <li> <a href="https://github.com/gorodnichy/Xmas">
+        Source at GitHub</a> </li>
+    download: [epub,pdf]
+    edit: https://github.com/gorodnichy/Xmas/edit/master/%s
+    sharing:
+      twitter: yes
+      github: yes
+      facebook: yes
+bookdown::epub_book: default
