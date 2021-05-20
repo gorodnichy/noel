@@ -1,8 +1,15 @@
-# Christmas songs lyrics, translations and chord 
+# Bilingual Christmas songs lyrics, translations and chord 
 
 /docs: 
-Source R Markdown with Christmas songs lyrics, translations and chords used to generate
-https://rpubs.com/ivim/noel  (mirror: <https://gorodnichy.github.io/noel/>)
+Source single-page hmtl for Interactive menu-enabled version of this song collection 
+<https://gorodnichy.github.io/noel/>  (mirror: https://rpubs.com/ivim/noel)
 
-See also older version: https://github.com/gorodnichy/Xmas, which is the R bookdown source used to generate 
-<https://bookdown.org/gorodnichy/Noel/>  (mirror: https://gorodnichy.github.io/Xmas/)
+/docs/book:
+Source html files for multi-page Bookdown version of this song collection
+https://gorodnichy.github.io/noel/book  (mirror: <https://bookdown.org/gorodnichy/Noel/>)
+
+/Rmd:
+Source Rmd files that are used to generage the above two versions.
+
+/Rmd/extra:
+R code to do text mining and generate word cloud from the lyrics of the songs in both languages
