@@ -1,4 +1,4 @@
-# Bilingual Christmas songs lyrics, translations and chord 
+# Bilingual Christmas songs lyrics, translations and chords 
 
 /docs: 
 Source single-page hmtl for Interactive menu-enabled version of this song collection 
