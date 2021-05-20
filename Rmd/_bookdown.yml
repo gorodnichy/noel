@@ -1,4 +1,8 @@
 book_filename: "Noel"
+new_session: yes
+rmd_files: [
+  "noel.Rmd"
+]
 delete_merged_file: true
 language:
   ui:
