@@ -1,11 +1,13 @@
 --- 
+knit: "bookdown::render_book"
 title: "Christmas carols: multi-lingual, with chords, analyzed using Data Science"   
-  #author: "IVIM"
+#author: "IVIM"
 documentclass: book
 site: bookdown::bookdown_site
-#subtitle: Chansons de Noël avec accords
-description: Christmas songs  for multi-lingual families, with chords
-#subtitle: Multi-lingual, with chords, analyzed using Data Science 
+#subtitle: Chansons de Noël avec les accords
+description: "Christmas songs  for multi-lingual families, with chords"
+url: 'https://gccode.ssc-spc.gc.ca/r4gc/gc-packages/packages101'
+github-repo: gorodnichy/noel
 ---
 
 <!-- # Les 30 meilleures chansons de Noël {-} -->
